@@ -1,5 +1,5 @@
 
-FROM alpine:3.16
+FROM alpine:3.21.0
 
 MAINTAINER Arshad Zackeriya
 
